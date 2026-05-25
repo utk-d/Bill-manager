@@ -29,7 +29,7 @@ export default function LandingPage() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <Link
-              href="/dashboard"
+              href="/signup"
               className="rounded-xl bg-slate-900 px-6 py-3 text-sm font-medium text-white hover:bg-slate-800"
             >
               Get Started
@@ -38,7 +38,7 @@ export default function LandingPage() {
               href="/login"
               className="rounded-xl border border-slate-300 px-6 py-3 text-sm font-medium text-slate-700 hover:bg-white"
             >
-              Sign In
+              Login
             </Link>
           </div>
 
@@ -60,7 +60,7 @@ export default function LandingPage() {
                 Parapac 310 Transport Ventilator
               </div>
               <div className="rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-500">
-                20-May-26  - 20-May-26
+                20-May-26  - 20-Apr-26
               </div>
               <div className="rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-500">
                 2,10,000 INR - 5,25,000 INR
